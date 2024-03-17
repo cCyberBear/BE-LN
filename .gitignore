@@ -1,0 +1,6 @@
+/node_modules
+/logger
+/Dockerfile
+.dockerignore
+.idea
+pnpm-lock.yaml
